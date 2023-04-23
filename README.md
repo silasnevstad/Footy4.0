@@ -7,7 +7,7 @@ A python machine learning model to predict the outcomes of EPL, La Liga, BundesL
 
 ## Overview
 
-A machine learning model designed to predict the outcome of football (soccer) matches. The model has been trained on data (140 data points) from the last 5 years, 2018-2023, predicting the expected goals for and against. Using a combination of those predictions and ELO ratings, I then calculate offensive and defensive strengths for each team, with which I can predict the outcome of upcoming games, and determine whether my odds have an edge over Vegas.
+A machine learning model designed to predict the outcome of football (soccer) matches. The model has been trained on data (140 data points) from the last 5 years, 2018-2023, predicting the expected goals for and against. Using a combination of those predictions and ELO ratings, frm current data, I then calculate offensive and defensive strengths for each team, with which I can predict the outcome of upcoming games, and determine whether my odds have an edge over Vegas.
 
 This script also contains code for appending these predictions to a firebase real-time database.
    
