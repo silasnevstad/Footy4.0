@@ -2,18 +2,6 @@
 
 A python machine learning model to predict the outcomes of EPL, La Liga, BundesLiga, Ligue One, and Serie A games.
 
-<!-- TABLE OF CONTENTS -->
-<div id="top"></div>
-<details open>
-  <summary>Table of Contents</summary>
-  <ol>
-    <li><a href="#overview">Overview</a></li>
-    <li><a href="#builtwith">Built With</a></li>
-    <li><a href="#dependencies">Dependencies</a></li>
-    <li><a href="#acknowledgements">Acknowledgements</a></li>
-  </ol>
-</details>
-
 <!-- Overview -->
 <div id="overview"></div>
 
