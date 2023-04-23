@@ -42,6 +42,6 @@ This script also contains code for appending these predictions to a firebase rea
 
  ## Acknowledgements
  
- Data sourced from FiveThirtyEight and FBref.
+ Data sourced from TheOddsAPI, FiveThirtyEight and FBref.
 
 <p align="right">(<a href="#top">backop</a>)</p>
